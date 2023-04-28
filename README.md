@@ -224,7 +224,7 @@ void Error_Handler(void)
 ## Output screen shots of proteus  :
  ## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE): 
  ![ex 4 pmc1](https://user-images.githubusercontent.com/121166075/235103766-c81248a7-1b18-430f-9aff-209a00f4115b.jpg)
-
+![ex 4 pmc2](https://user-images.githubusercontent.com/121166075/235105415-970bdd3d-2eaf-4289-b99b-71ce3b3a3843.jpg)
 
 ## Result :
 Interfacing a digital output and digital input  with ARM microcontroller are simulated in proteus and the results are verified.
