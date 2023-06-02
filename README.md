@@ -195,7 +195,7 @@ int main(void)
   Lcd_cursor(&lcd, 0,1);
   Lcd_string(&lcd, "DEPT- AI&DS");
   Lcd_cursor(&lcd, 1,1);
-  Lcd_string(&lcd, "DELLI PRIYA L");
+  Lcd_string(&lcd, "Delli Priya");
   while (1)
   {
     
